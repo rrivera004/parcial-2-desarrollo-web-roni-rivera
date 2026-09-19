@@ -1,0 +1,114 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ana García",
+      "email": "ana.garcia@empresa.com",
+      "position": "Desarrolladora Frontend",
+      "department": "Tecnología",
+      "salary": 8500,
+      "hireDate": "2022-03-15",
+      "status": "active",
+      "role": "employee",
+      "avatarUrl": "https://i.pravatar.cc/64?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Carlos Martínez",
+      "email": "carlos.martinez@empresa.com",
+      "position": "Gerente de RRHH",
+      "department": "Recursos Humanos",
+      "salary": 12000,
+      "hireDate": "2019-07-01",
+      "status": "active",
+      "role": "hr"
+    },
+    {
+      "id": 3,
+      "name": "María López",
+      "email": "maria.lopez@empresa.com",
+      "position": "Contadora Senior",
+      "department": "Finanzas",
+      "salary": 9500,
+      "hireDate": "2021-01-20",
+      "status": "on_leave",
+      "role": "employee"
+    },
+    {
+      "id": 4,
+      "name": "Roberto Silva",
+      "email": "roberto.silva@empresa.com",
+      "position": "Administrador del Sistema",
+      "department": "Tecnología",
+      "salary": 15000,
+      "hireDate": "2018-05-10",
+      "status": "active",
+      "role": "admin"
+    },
+    {
+      "id": 5,
+      "name": "Lucía Ramírez",
+      "email": "lucia.ramirez@empresa.com",
+      "position": "Analista de Operaciones",
+      "department": "Operaciones",
+      "salary": 7800,
+      "hireDate": "2023-02-01",
+      "status": "inactive",
+      "role": "employee"
+    },
+    {
+      "id": 6,
+      "name": "Diego Herrera",
+      "email": "diego.herrera@empresa.com",
+      "position": "Ejecutivo de Ventas",
+      "department": "Ventas",
+      "salary": 8200,
+      "hireDate": "2022-11-14",
+      "status": "active",
+      "role": "employee"
+    }
+    ],
+  "trainings": [
+    {
+      "id": 1,
+      "name": "React y TypeScript Avanzado",
+      "category": "Tecnología",
+      "instructor": "Juan Pérez",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-05",
+      "maxSlots": 20,
+      "status": "programada"
+    },
+    {
+      "id": 2,
+      "name": "Liderazgo Empresarial",
+      "category": "Desarrollo Personal",
+      "instructor": "Laura Méndez",
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-12",
+      "maxSlots": 15,
+      "status": "en_curso"
+    },
+    {
+      "id": 3,
+      "name": "Seguridad Informática",
+      "category": "Tecnología",
+      "instructor": "Carlos López",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-03",
+      "maxSlots": 25,
+      "status": "finalizada"
+    },
+    {
+      "id": 4,
+      "name": "Gestión del Tiempo",
+      "category": "Productividad",
+      "instructor": "María García",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-16",
+      "maxSlots": 30,
+      "status": "cancelada"
+    }
+  ]
+
+}
